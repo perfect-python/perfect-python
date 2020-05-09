@@ -38,4 +38,6 @@
 14.txt:262:▼リスト14.7　mocktest.py
 14.txt:297:▼リスト14.8　test_asyncechoclient.py
 
+リスト15.1　hello.py
+リスト15.2　accesslog.py
 15.txt:153:▼リスト15.3　form_handling.py
